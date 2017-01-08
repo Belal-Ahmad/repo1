@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
- main()
+void  main()
+belal
 {
 int c,d;
 char string[]= "Cprogramming";
