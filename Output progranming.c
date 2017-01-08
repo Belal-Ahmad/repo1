@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
 void  main()
-belal
 {
 int c,d;
 char string[]= "Cprogramming";
@@ -16,7 +15,7 @@ printf("|----------------------|\n");
 for(c=11; c>=0; c--)
 {
 d=c+1;
-printf("|%12.*s|\n",d, string);
+printf("|%-12.*s|\n",d, string);
 }
 printf("---------------------\n");
 getch();
